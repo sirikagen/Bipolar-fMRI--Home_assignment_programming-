@@ -30,7 +30,7 @@ The project was developed using the following tools:
 --------------------------------------------------------------------------------------------
 
 ### Description
-The goal of this programming assignment was to write our own version-controlled Python code to visualize fMRI data. The aim was to learn how to start a project from scratch, such as setting up a conda environment, write our own code, and upload said code toGitHub for version control for writing and recieving feedback. 
+The goal of this programming assignment was to write our own version-controlled Python code to visualize fMRI data. The aim was to learn how to start a project from scratch, such as setting up a conda environment, write our own code, and upload said code to GitHub for version control for writing and recieving feedback. 
 
 The data I have chosen is from a term-based meta-analysis on 157 studies where the key term is bipolar disorder. Originally I hoped to do a comparison of one meta-analysis baseed on 130 studies, and the following meta-analysis on 157 studies. However, I did not have time for everything in the end, but the traces of my fanatasy are left behind. AKA the unneccessary add-on of "157" here and there. The numbers carry no significance past a reek of grappling passion for fancy 0s & 1s, and time-blind enthusiasm. I chose to both visualize the association data and the uniformity data, for my own curiosity, but also to showcase the difference in these types of data. Below I have included an explaination of the association test map and uniformity test map from the same source I acquired these data sets. 
 <br/>
